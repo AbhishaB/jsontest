@@ -1,0 +1,23 @@
+{
+   "id":"3780c690-3c1b-11e8-a1e4-b737c6ede16c",
+   "template" : 1,
+   "offer_item" : "Burger",
+   "offer_item_details" : "The veggie burger",
+   "base_price" : 5,
+   "offer_price" : 4,
+   "percent" : 10,
+   "combo" : [],
+   "form_time" : 1000,
+   "to_time" : 1400,
+   "on_days" : "Monday, Tuesday",
+   "merchant" : "merchant1@gmail.com",
+   "company_logo":"http://imgur.com/12344",
+   "count":1000,
+   "description":"The amazing deal is here. Get free burger on purchase of $1.Hurry.",
+   "headline":"Get free burger on purchase of $1",
+   "image_url":"https://www.247waiter.com/_upload/products/burger.jpg",
+   "is_valid_forever":true,
+   "keywords":"burger, food, free",
+   "remit_address":"3710 Western Blvd, Raleigh, NC 27606",
+   "validity":30
+}
